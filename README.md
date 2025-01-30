@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/nitinrs95/social-links-profile-main.git)
-- Live Site URL: [Add live site URL here](https://nitinrs95.github.io/social-links-profile-main/)
+- Live Site URL: [Social Links Profile](https://nitinrs95.github.io/social-links-profile-main/)
 
 ## My process
 
